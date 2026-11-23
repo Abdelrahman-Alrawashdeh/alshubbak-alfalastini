@@ -6,7 +6,7 @@
 
 **موقع عربي ومكتبة مرئية لشركة تصنيع وتركيب شبابيك ألمنيوم ومطابخ في الأردن: أنظمة 7000C و9000C، المطابخ، مراحل التصنيع، وطلب عرض سعر عبر واتساب.**
 
-[![Live](https://img.shields.io/badge/الموقع_المباشر-alshubbak--alfalastini.workers.dev-B3372F?style=for-the-badge)](https://alshubbak-alfalastini.alshubbakalfalastini.workers.dev/)
+[![Live](https://img.shields.io/badge/Live_Website-alshubbak--alfalastini.workers.dev-B3372F?style=for-the-badge)](https://alshubbak-alfalastini.alshubbakalfalastini.workers.dev/)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
